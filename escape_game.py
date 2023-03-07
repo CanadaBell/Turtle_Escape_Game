@@ -7,7 +7,7 @@ t1 = turtle.Turtle() # First turtle
 t2 = turtle.Turtle() # Second Turtle
 w = 980 #Width of screen (Change if you want)
 h = 810 #Height of screen (Change if you want)
-t = 0 #Times
+t = 0 #Time
 def go(p,rx,ry): #Function for lifting up the pen and going to a location
     p.up()
     p.goto(rx, ry)
